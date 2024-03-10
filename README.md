@@ -1,12 +1,16 @@
 # Project04-Platformer
 
 # Project Name
-Context and date
+2D Platformer
 
 Description
+2D Platform Game 
 
 ## Implementation
-Which features you included.
+Multiple levels
+Player can jump
+Camera follows the player
+Includes at least one enemy
 
 ## References
 
@@ -14,6 +18,10 @@ Character Controller adapted from Sebastion Lague's Unity 5 Character Controller
 https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
+Youtube - Coding In Flow
+
 ## Future Development
+More Features + Levels
 
 ## Created by
+Tina Lin
